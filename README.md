@@ -1,6 +1,6 @@
 # Hi there! I'm Harsh Lilha 👋
 
-Welcome to my GitHub profile! I'm a 3rd-year **Information Science Engineering** student at **RVCE** with a passion for technology, innovation, and coding. I love exploring new fields and learning new tools, and I'm constantly working on various interesting projects.
+Welcome to my GitHub profile! I'm a 3rd-year **Artificial Intelligence and Machine Learning Engineering** student at **RVCE** with a passion for technology, innovation, and coding. I love exploring new fields and learning new tools, and I'm constantly working on various interesting projects.
 
 ## 🚀 Technologies & Tools I Have Used
 
