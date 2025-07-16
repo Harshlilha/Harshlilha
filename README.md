@@ -109,9 +109,6 @@ Welcome to my GitHub profile! I'm a 3rd-year **Artificial Intelligence and Machi
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshlilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshlilha&layout=compact&theme=dark" alt="Top Languages"/>
